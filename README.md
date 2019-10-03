@@ -1,1 +1,3 @@
-# miyagees-bash_profile
+# miyagees-bash_profil
+
+Personal .bash_profilee
