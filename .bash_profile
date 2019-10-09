@@ -7,3 +7,4 @@ export PS1="\[\033[38;5;7m\]\u\[$(tput sgr0)\]\[\033[38;5;202m\]@\[$(tput sgr0)\
 
 # Golang configs
 export GOPATH=$HOME/Documents/go
+export PATH=$PATH:$GOPATH/bin
